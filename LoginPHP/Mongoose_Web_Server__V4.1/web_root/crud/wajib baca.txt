@@ -1,0 +1,7 @@
+perlu di kembangkan lagi
+tanpa database
+semua memakai json
+bisa koneksi dengan json dan php
+
+
+tutorial : https://masrud.com/post/membuat-dan-memanipulasi-json-dengan-php
